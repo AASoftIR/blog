@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Tags on My Blog 📑</title>
+    <link>http://localhost:1313/blog/tags/</link>
+    <description>Recent content in Tags on My Blog 📑</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Nov 2024 22:27:10 +0330</lastBuildDate><atom:link href="http://localhost:1313/blog/tags/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/img/icon.svg</icon>
+    
+    
+    <item>
+      <title>Bad</title>
+      <link>http://localhost:1313/blog/tags/bad/</link>
+      <pubDate>Thu, 28 Nov 2024 22:27:10 +0330</pubDate>
+      
+      <guid>http://localhost:1313/blog/tags/bad/</guid>
+      <description><![CDATA[]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://localhost:1313/blog/tags/hugo/</link>
+      <pubDate>Thu, 28 Nov 2024 22:27:10 +0330</pubDate>
+      
+      <guid>http://localhost:1313/blog/tags/hugo/</guid>
+      <description><![CDATA[]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Blogging</title>
+      <link>http://localhost:1313/blog/tags/blogging/</link>
+      <pubDate>Thu, 28 Nov 2024 21:55:53 +0330</pubDate>
+      
+      <guid>http://localhost:1313/blog/tags/blogging/</guid>
+      <description><![CDATA[]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>
