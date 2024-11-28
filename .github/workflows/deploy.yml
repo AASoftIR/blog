@@ -17,7 +17,7 @@ jobs:
       # Debug step to list contents after checkout
       - name: List files
         run: |
-          ls -alh public
+          ls -alh content
 
       # Step 2: Setup Hugo
       - name: Setup Hugo
