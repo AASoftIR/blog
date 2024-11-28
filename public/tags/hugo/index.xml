@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
-    <title>My Blog 📑</title>
-    <link>https://aasoftir.github.io/blog/</link>
-    <description>Recent content on My Blog 📑</description>
+    <title>Hugo on My Blog 📑</title>
+    <link>https://aasoftir.github.io/blog/tags/hugo/</link>
+    <description>Recent content in Hugo on My Blog 📑</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Nov 2024 21:55:53 +0330</lastBuildDate><atom:link href="https://aasoftir.github.io/blog/index.xml" rel="self" type="application/rss+xml" /><icon>https://aasoftir.github.io/img/icon.svg</icon>
+    <lastBuildDate>Thu, 28 Nov 2024 21:55:53 +0330</lastBuildDate><atom:link href="https://aasoftir.github.io/blog/tags/hugo/index.xml" rel="self" type="application/rss+xml" /><icon>https://aasoftir.github.io/img/icon.svg</icon>
     
     
     <item>
@@ -37,10 +37,6 @@
 ]]></description>
       
     </item>
-    
-    
-    
-    
     
     
   </channel>

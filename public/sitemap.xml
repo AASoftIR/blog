@@ -2,13 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aasoftir.github.io/blog/</loc>
-    <lastmod>2024-11-27T12:00:00+00:00</lastmod>
+    <loc>https://aasoftir.github.io/blog/tags/blogging/</loc>
+    <lastmod>2024-11-28T21:55:53+03:30</lastmod>
   </url><url>
-    <loc>https://aasoftir.github.io/blog/posts/my-first-post/</loc>
-    <lastmod>2024-11-27T12:00:00+00:00</lastmod>
+    <loc>https://aasoftir.github.io/blog/tags/hugo/</loc>
+    <lastmod>2024-11-28T21:55:53+03:30</lastmod>
+  </url><url>
+    <loc>https://aasoftir.github.io/blog/posts/hugo-is-awesome/</loc>
+    <lastmod>2024-11-28T21:55:53+03:30</lastmod>
+  </url><url>
+    <loc>https://aasoftir.github.io/blog/</loc>
+    <lastmod>2024-11-28T21:55:53+03:30</lastmod>
   </url><url>
     <loc>https://aasoftir.github.io/blog/posts/</loc>
+    <lastmod>2024-11-28T21:55:53+03:30</lastmod>
+  </url><url>
+    <loc>https://aasoftir.github.io/blog/tags/</loc>
+    <lastmod>2024-11-28T21:55:53+03:30</lastmod>
+  </url><url>
+    <loc>https://aasoftir.github.io/blog/posts/my-first-post/</loc>
     <lastmod>2024-11-27T12:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aasoftir.github.io/blog/categories/</loc>
@@ -16,7 +28,5 @@
     <loc>https://aasoftir.github.io/blog/manifest/index.json</loc>
   </url><url>
     <loc>https://aasoftir.github.io/blog/search/</loc>
-  </url><url>
-    <loc>https://aasoftir.github.io/blog/tags/</loc>
   </url>
 </urlset>
