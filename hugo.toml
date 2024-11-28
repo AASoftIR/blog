@@ -9,9 +9,11 @@ canonifyURLs = true
   [Languages.en]
   baseURL = "https://aasoftir.github.io/blog/"
   languageName = "English"
+  contentDir = 'content'
   weight = 1
 
   [Languages.pr]
   baseURL = "https://aasoftir.github.io/blog/pr/"
   languageName = "Persian"
+  contentDir = 'content/pr'
   weight = 2
