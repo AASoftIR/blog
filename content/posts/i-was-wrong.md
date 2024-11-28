@@ -6,3 +6,5 @@ tags: ["hugo", "bad"]
 ---
 
 # it is really hard to make a stable blog with hugo
+
+noooooooooooooooo
