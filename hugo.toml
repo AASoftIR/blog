@@ -1,21 +1,17 @@
 baseURL = 'https://aasoftir.github.io/blog/'
 languageCode = 'en-us'
 title = 'My Blog 📑'
-theme="hugo-ficurinia"
+theme = "hugo-ficurinia"
 relativeURLs = true
 canonifyURLs = true
-[Languages.en]
-  baseURL = "https://aasoftir.github.io/blog/"
-
-[Languages.pr]
-  baseURL = "https://aasoftir.github.io/blog/pr/"
 
 [Languages]
   [Languages.en]
+  baseURL = "https://aasoftir.github.io/blog/"
   languageName = "English"
   weight = 1
 
   [Languages.pr]
+  baseURL = "https://aasoftir.github.io/blog/pr/"
   languageName = "Persian"
   weight = 2
-
