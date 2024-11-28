@@ -3,7 +3,7 @@ name: Build and Deploy Hugo Site
 on:
   push:
     branches:
-      - main # Adjust if your branch is different
+      - main # Or your default branch
 
 jobs:
   build:
