@@ -1,4 +1,6 @@
 baseURL = 'https://aasoftir.github.io/blog'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My Blog 📑'
 theme="hugo-ficurinia"
+relativeURLs = true
+canonifyURLs = true
