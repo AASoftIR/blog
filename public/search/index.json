@@ -4,6 +4,10 @@
     
     
     
-    "pages": []
+        
+        
+        
+    
+    "pages": [{"date":"2024-11-27","image":"","imageAlt":"","link":"https://aasoftir.github.io/blog/posts/my-first-post/","summary":"\u003cp\u003eWelcome to my blog powered by Hugo!\u003c/p\u003e","tags":[],"text":"welcome to my blog powered by hugo!\n","title":"My First Post"}]
 }
 

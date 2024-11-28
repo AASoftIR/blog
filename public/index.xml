@@ -5,7 +5,20 @@
     <description>Recent content on My Blog 📑</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Nov 2024 12:00:00 +0000</lastBuildDate><atom:link href="https://aasoftir.github.io/blog/index.xml" rel="self" type="application/rss+xml" /><icon>https://aasoftir.github.io/img/icon.svg</icon>
+    <lastBuildDate>Wed, 27 Nov 2024 12:00:00 +0000</lastBuildDate><atom:link href="https://aasoftir.github.io/blog/index.xml" rel="self" type="application/rss+xml" /><icon>https://aasoftir.github.io/img/icon.svg</icon>
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://aasoftir.github.io/blog/posts/my-first-post/</link>
+      <pubDate>Wed, 27 Nov 2024 12:00:00 +0000</pubDate>
+      
+      <guid>https://aasoftir.github.io/blog/posts/my-first-post/</guid>
+      <description><![CDATA[<p>Welcome to my blog powered by Hugo!</p>
+]]></description>
+      
+    </item>
+    
     
     
     
