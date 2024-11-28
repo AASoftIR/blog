@@ -1,4 +1,4 @@
-baseURL = 'https://aasoftir.github.io/blog'
+baseURL = 'https://aasoftir.github.io/blog/'
 languageCode = 'en-us'
 title = 'My Blog 📑'
 theme="hugo-ficurinia"
