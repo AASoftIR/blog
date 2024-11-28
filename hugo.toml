@@ -17,3 +17,14 @@ canonifyURLs = true
   languageName = "Persian"
   contentDir = 'content/pr'
   weight = 2
+
+
+[menus]
+  [[menus.main]]
+    name = 'English'
+    pageRef = '/'
+    weight = 5
+  [[menus.main]]
+    name = 'Persian'
+    pageRef = '/pr
+    weight = 6
