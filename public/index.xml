@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>My Blog 📑</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://aasoftir.github.io/blog/</link>
     <description>Recent content on My Blog 📑</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Nov 2024 22:27:10 +0330</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/img/icon.svg</icon>
+    <lastBuildDate>Thu, 28 Nov 2024 22:27:10 +0330</lastBuildDate><atom:link href="https://aasoftir.github.io/blog/index.xml" rel="self" type="application/rss+xml" /><icon>https://aasoftir.github.io/img/icon.svg</icon>
     
     
     <item>
       <title>I Was Wrong</title>
-      <link>http://localhost:1313/blog/posts/i-was-wrong/</link>
+      <link>https://aasoftir.github.io/blog/posts/i-was-wrong/</link>
       <pubDate>Thu, 28 Nov 2024 22:27:10 +0330</pubDate>
       
-      <guid>http://localhost:1313/blog/posts/i-was-wrong/</guid>
+      <guid>https://aasoftir.github.io/blog/posts/i-was-wrong/</guid>
       <description><![CDATA[<h1 id="it-is-really-hard-to-make-a-stable-blog-with-hugo">it is really hard to make a stable blog with hugo</h1>
 <p>noooooooooooooooo</p>
 ]]></description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>Hugo Is Awesome</title>
-      <link>http://localhost:1313/blog/posts/hugo-is-awesome/</link>
+      <link>https://aasoftir.github.io/blog/posts/hugo-is-awesome/</link>
       <pubDate>Thu, 28 Nov 2024 21:55:53 +0330</pubDate>
       
-      <guid>http://localhost:1313/blog/posts/hugo-is-awesome/</guid>
+      <guid>https://aasoftir.github.io/blog/posts/hugo-is-awesome/</guid>
       <description><![CDATA[<h1 id="wow-just-wow">wow! just wow</h1>
 <blockquote>
 <p>You just run bunch of code and hugo does it all!</p>
@@ -43,10 +43,10 @@
     
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/blog/posts/my-first-post/</link>
+      <link>https://aasoftir.github.io/blog/posts/my-first-post/</link>
       <pubDate>Wed, 27 Nov 2024 12:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/posts/my-first-post/</guid>
+      <guid>https://aasoftir.github.io/blog/posts/my-first-post/</guid>
       <description><![CDATA[<p>Welcome to my blog powered by Hugo!</p>
 ]]></description>
       
