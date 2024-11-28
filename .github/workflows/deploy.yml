@@ -3,7 +3,7 @@ name: Build and Deploy Hugo Site
 on:
   push:
     branches:
-      - main # Or your default branch
+      - main
 
 jobs:
   build-deploy:
@@ -14,6 +14,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # Debug step to list contents after checkout
+      - name: List files
+        run: |
+          ls -alh
+
       # Step 2: Setup Hugo
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -22,7 +27,7 @@ jobs:
 
       # Step 3: Build the site
       - name: Build the site
-        run: hugo
+        run: hugo --minify
 
       # Step 4: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
