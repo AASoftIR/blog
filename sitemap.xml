@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://aasoftir.github.io/blog/tags/bad/</loc>
+    <lastmod>2024-11-28T22:27:10+03:30</lastmod>
+  </url><url>
+    <loc>https://aasoftir.github.io/blog/tags/hugo/</loc>
+    <lastmod>2024-11-28T22:27:10+03:30</lastmod>
+  </url><url>
+    <loc>https://aasoftir.github.io/blog/posts/i-was-wrong/</loc>
+    <lastmod>2024-11-28T22:27:10+03:30</lastmod>
+  </url><url>
+    <loc>https://aasoftir.github.io/blog/</loc>
+    <lastmod>2024-11-28T22:27:10+03:30</lastmod>
+  </url><url>
+    <loc>https://aasoftir.github.io/blog/posts/</loc>
+    <lastmod>2024-11-28T22:27:10+03:30</lastmod>
+  </url><url>
+    <loc>https://aasoftir.github.io/blog/tags/</loc>
+    <lastmod>2024-11-28T22:27:10+03:30</lastmod>
+  </url><url>
     <loc>https://aasoftir.github.io/blog/tags/blogging/</loc>
     <lastmod>2024-11-28T21:55:53+03:30</lastmod>
   </url><url>
-    <loc>https://aasoftir.github.io/blog/tags/hugo/</loc>
-    <lastmod>2024-11-28T21:55:53+03:30</lastmod>
-  </url><url>
     <loc>https://aasoftir.github.io/blog/posts/hugo-is-awesome/</loc>
-    <lastmod>2024-11-28T21:55:53+03:30</lastmod>
-  </url><url>
-    <loc>https://aasoftir.github.io/blog/</loc>
-    <lastmod>2024-11-28T21:55:53+03:30</lastmod>
-  </url><url>
-    <loc>https://aasoftir.github.io/blog/posts/</loc>
-    <lastmod>2024-11-28T21:55:53+03:30</lastmod>
-  </url><url>
-    <loc>https://aasoftir.github.io/blog/tags/</loc>
     <lastmod>2024-11-28T21:55:53+03:30</lastmod>
   </url><url>
     <loc>https://aasoftir.github.io/blog/posts/my-first-post/</loc>

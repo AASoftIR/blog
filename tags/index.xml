@@ -6,20 +6,27 @@
     <description>Recent content in Tags on My Blog 📑</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Nov 2024 21:55:53 +0330</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 22:27:10 +0330</lastBuildDate>
     <atom:link href="https://aasoftir.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blogging</title>
-      <link>https://aasoftir.github.io/blog/tags/blogging/</link>
-      <pubDate>Thu, 28 Nov 2024 21:55:53 +0330</pubDate>
-      <guid>https://aasoftir.github.io/blog/tags/blogging/</guid>
+      <title>Bad</title>
+      <link>https://aasoftir.github.io/blog/tags/bad/</link>
+      <pubDate>Thu, 28 Nov 2024 22:27:10 +0330</pubDate>
+      <guid>https://aasoftir.github.io/blog/tags/bad/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
       <link>https://aasoftir.github.io/blog/tags/hugo/</link>
-      <pubDate>Thu, 28 Nov 2024 21:55:53 +0330</pubDate>
+      <pubDate>Thu, 28 Nov 2024 22:27:10 +0330</pubDate>
       <guid>https://aasoftir.github.io/blog/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blogging</title>
+      <link>https://aasoftir.github.io/blog/tags/blogging/</link>
+      <pubDate>Thu, 28 Nov 2024 21:55:53 +0330</pubDate>
+      <guid>https://aasoftir.github.io/blog/tags/blogging/</guid>
       <description></description>
     </item>
   </channel>
